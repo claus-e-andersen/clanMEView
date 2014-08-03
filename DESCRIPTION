@@ -1,0 +1,14 @@
+Package: clanMEView
+Version: 0.008
+Date: 2014-08-03
+Title: R functions for reading output from clanMEView
+Author: Claus E. Andersen
+Maintainer: Claus E. Andersen <clan@dtu.dk>
+Description: An R library of functions for reading output from MEView (i.e. mainly  DTU 
+instruments for fiber coupled dosimetry: ME02, ME30, and ME40). 
+URL: www.dtu.dk
+Depends:
+    R (>= 3.1.1)
+License: GPL (>= 3)
+Repository: GITHUB / claus-e-andersen
+LazyData: true
