@@ -13,7 +13,7 @@ library(devtools)
 
 
 
-(2) Then get the clanTools package from github:
+(2) Then get the clanMEView package from github:
 
 install_github("clanMEView","claus-e-andersen")
 
