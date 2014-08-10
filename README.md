@@ -18,3 +18,13 @@ library(devtools)
 install_github("clanMEView","claus-e-andersen")
 
 library(clanMEView)
+
+
+(3) To get a list of functions in the library, just call:
+
+help(package=clanMEView)
+
+or
+
+library(help=clanMEView)
+
