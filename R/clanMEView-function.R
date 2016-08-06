@@ -9,7 +9,7 @@
 clanOptim <- function(){
   list(name="clanMEView",
        version=0.008,
-       date="August 3, 2014",
+       date="August 3, 2014 (uploaded August 6, 2016)",
        functions=sort(c("clanMEView",
                         "MEView.read.file.header"
        )))
